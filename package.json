@@ -1,0 +1,10 @@
+{
+  "name": "technical-docs-generator",
+  "version": "1.0.0",
+  "description": "ClawHub skill: technical-docs-generator",
+  "license": "MIT-0",
+  "openclaw": {
+    "type": "skill",
+    "category": "business"
+  }
+}
